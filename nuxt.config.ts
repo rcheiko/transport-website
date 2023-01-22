@@ -24,11 +24,6 @@ export default defineNuxtConfig({
     lazy: true,
     langDir: "locales/",
     locales: [
-      // {
-      //   code: "en",
-      //   iso: "en-US",
-      //   file: "en-US.json",
-      // },
       {
         code: "fr",
         iso: "fr-FR",
