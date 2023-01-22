@@ -1,0 +1,11 @@
+{
+  "base": {
+    "title": "Déménagement - {title}",
+    "meta": {
+      "home": {
+        "title": "titre meta",
+        "description": "description meta"
+      }
+    }
+  }
+}
