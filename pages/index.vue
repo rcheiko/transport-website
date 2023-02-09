@@ -1,8 +1,10 @@
 <template>
     <div>
-        <section class="container">
-            <p data-aos="fade-up" data-aos-duration="1500">Déménagement</p>
-        </section>
+        <hero-home />
+        <prestation />
+        <tarif />
+        <avis />
+        <contact />
     </div>
 </template>
 

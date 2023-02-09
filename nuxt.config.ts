@@ -1,11 +1,19 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: [
+    // https://github.com/nuxt-modules/tailwindcss
     "@nuxtjs/tailwindcss",
+    // https://github.com/nuxt-modules/i18n
     "@nuxtjs/i18n",
+    // https://github.com/vuejs/pinia
     // "@pinia/nuxt",
+    // https://github.com/vueuse/vueuse
     "@vueuse/nuxt",
+    // https://github.com/nuxt/image
     "@nuxt/image-edge",
+    // https://github.com/nuxt-modules/icon
+    "nuxt-icon",
+    // https://github.com/nuxt-modules/html-validator
     // '@nuxtjs/html-validator',
   ],
   tailwindcss: {

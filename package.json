@@ -24,6 +24,7 @@
     "@vueuse/core": "^9.6.0",
     "@vueuse/nuxt": "^9.5.0",
     "aos": "^2.3.4",
-    "daisyui": "^2.50.0"
+    "daisyui": "^2.50.0",
+    "nuxt-icon": "^0.2.11"
   }
 }
