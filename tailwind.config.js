@@ -1,19 +1,33 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  // important: true,
+  plugins: [require("daisyui")],
   content: [],
+  daisyui: {
+    themes: [
+      {
+        mytheme: {
+          "primary": "#3E54FA",
+
+          "secondary": "#75A2FC",
+
+          "accent": "#1FB2A5",
+
+          "neutral": "#191D24",
+
+          "base-100": "#2A303C",
+
+          "info": "#FA6400",
+
+          "success": "#00CE99",
+
+          "warning": "#FBBD23",
+
+          "error": "#F87272",
+        },
+      },
+    ],
+  },
   theme: {
-    container: {
-      center: true,
-      padding: {
-        DEFAULT: "1rem",
-        sm: "2rem",
-        lg: "4rem",
-        xl: "5rem",
-        "2xl": "6rem",
-      }
-    },
-    extend: {},
     fontFamily: {
       sans: [
         "montserrat",
@@ -30,42 +44,5 @@ module.exports = {
         "sans-serif",
       ],
     },
-    fontSize: {
-      xs: '0.75rem',
-      sm: '0.875rem',
-      base: '1rem',
-      m: '1.05rem',
-      xl: '1.25rem',
-      '2xl': '1.5rem',
-      '3xl': '1.875rem',
-      '4xl': '2.25rem',
-      '5xl': '3rem',
-      '6xl': '3.75rem',
-      '7xl': '4.5rem',
-      '8xl': '6rem',
-      '9xl': '8rem',
-    },
-    colors: {
-      white: "#ffffff",
-      'soft-white': "#F2F4FF",
-      'soft-white2': "#F5F6F8",
-      'footer': "#e8ebfc",
-      dark: "#000000",
-      'soft-dark': '#343a40',
-      orange: "#FA6400",
-      blue: "#3E54FA",
-      'soft-blue': "#6A93FB",
-      grey: "#55546D",
-      'soft-grey': "#8C8A9A",
-      primaryButton1: "#3E54FA",
-      primaryButton2: "#75A2FC",
-      'soft-primary': "#3E54FA1A",
-      'error-soft': "#E43B7C",
-      errorText: "#E6344A",
-      error: "#FF0000",
-      good: "#00CE99",
-      warning: "#F5BA03",
-    },
   },
-  plugins: [],
 };
