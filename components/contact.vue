@@ -1,14 +1,38 @@
 <template>
-    <div class="hero py-36" id="contact">
-        <div class="hero-content flex-col lg:flex-row-reverse">
-            <nuxt-img src="/camion.jpg" alt="Camion de déménagement" class="max-w-sm rounded-lg shadow-2xl" width="350" height="350" />
-            <div>
-                <h1 class="text-5xl">Nos <span class="font-semibold">Tarifs</span> !</h1>
-                <p class="py-6">
-                    Déménagez à Paris
-                    à partir de 600 €*
-                </p>
-                <button class="btn btn-primary">Get Started</button>
+    <div class="py-8 sm:py-16 lg:py-48" id="contact">
+        <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
+            <!-- text - start -->
+            <div class="mb-10 md:mb-24">
+                <h2 class="text-2xl lg:text-5xl font-bold text-center mb-4 md:mb-10">Contact</h2>
+
+                <p class="max-w-screen-md md:text-lg text-center mx-auto">Appelez nous au : <NuxtLink to="tel:33600000000" class="font-bold text-secondary hover:opacity-90 cursor-pointer">06 00 00 00 00</NuxtLink> avec toutes les informations preparer ci-dessous</p>
+            </div>
+            <!-- text - end -->
+
+            <div class="grid sm:grid-cols-2 xl:grid-cols-3 gap-8 md:gap-12 xl:gap-16">
+                <!-- question - start -->
+                <div>
+                    <h3 class="text-lg md:text-xl font-bold mb-2">Distance</h3>
+                    <p>This is a section of some simple filler text, also known as placeholder
+                        text. It shares some characteristics of a real written text.</p>
+                </div>
+                <!-- question - end -->
+
+                <!-- question - start -->
+                <div>
+                    <h3 class="text-lg md:text-xl font-bold mb-2">Appartement / Maison</h3>
+                    <p>This is a section of some simple filler text, also known as placeholder
+                        text. It shares some characteristics of a real written text.</p>
+                </div>
+                <!-- question - end -->
+
+                <!-- question - start -->
+                <div>
+                    <h3 class="text-lg md:text-xl font-bold mb-2">Quantite / Mains D'oeuvre</h3>
+                    <p>This is a section of some simple filler text, also known as placeholder
+                        text. It shares some characteristics of a real written text.</p>
+                </div>
+                <!-- question - end -->
             </div>
         </div>
     </div>

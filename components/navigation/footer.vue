@@ -1,7 +1,7 @@
 <template>
     <div>
-        <footer class="footer items-center p-4 bg-neutral text-neutral-content">
-            <div class="items-center grid-flow-col">
+        <footer class="flex flex-row justify-between items-center py-4 px-4 md:px-32 bg-neutral text-neutral-content">
+            <div class="space-x-6 flex items-center grid-flow-col">
                 <nuxt-img src="/favicon-32x32.png" alt="Logo Website un camion de déménagement" />
                 <p>
                     2023 © Made with

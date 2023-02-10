@@ -92,7 +92,7 @@ useHead({
     {
       hid: 'og:image',
       name: 'og:image',
-      content: ''
+      content: 'http://localhost:3000/' + 'full-truck.jpg'
     },
     {
       'http-equiv': 'x-ua-compatible',

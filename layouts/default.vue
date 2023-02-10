@@ -3,11 +3,10 @@
         <navigation-navbar />
         <slot />
         <navigation-footer />
-
         <Transition>
             <div v-if="y <= -800" @click="scrollTop()"
-                class="cursor-pointer sticky flex justify-center items-center h-10 w-10 bg-primary rounded-lg hover:bg-secondary"
-                style="left: 97%; bottom: 2%">
+                class="hidden lg:inline fixed bottom-0 left-96 cursor-pointer h-10 w-10 bg-primary rounded-lg hover:bg-secondary"
+                style="left: 95%; bottom: 4%">
                 <Icon name="material-symbols:keyboard-arrow-up-rounded" size="40" />
             </div>
         </Transition>
