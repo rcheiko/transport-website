@@ -1,6 +1,6 @@
 <template>
     <div class="py-6 sm:py-8 lg:py-32 bg-base-300">
-        <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
+        <div class="max-w-screen-2xl px-4 md:px-8 mx-auto" data-aos="fade-up" data-aos-duration="2000">
             <h2 class="text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-8 xl:mb-12">Avis de nos clients</h2>
 
             <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
