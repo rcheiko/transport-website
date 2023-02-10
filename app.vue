@@ -82,12 +82,12 @@ useHead({
     {
       hid: 'og:title',
       name: 'og:title',
-      content: 'Roro Déménagement'
+      content: 'Roro Transport'
     },
     {
       hid: 'og:site_name',
       name: 'og:site_name',
-      content: 'Roro Déménagement'
+      content: 'Roro Transport'
     },
     {
       hid: 'og:image',

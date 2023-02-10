@@ -20,7 +20,7 @@
             </div>
             <div @click="scrollInto('hero')" class="flex items-center px-4 space-x-4 cursor-pointer">
                 <nuxt-img src="/logo.png" alt="Logo Website un camion de déménagement" width="50" height="50" />
-                <a class="font-semibold normal-case text-xl">Roro Déménagement</a>
+                <a class="font-semibold normal-case text-xl">Roro Transport</a>
             </div>
         </div>
         <div class="navbar-center hidden lg:flex">

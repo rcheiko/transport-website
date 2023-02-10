@@ -1,10 +1,10 @@
 {
   "base": {
-    "title": "Déménagement - {title}",
+    "title": "Roro Transport - {title}",
     "meta": {
       "home": {
         "title": "Accueil",
-        "description": "description meta"
+        "description": "Notre entreprise de transport, déménagement et débarras offre des solutions fiables et économiques pour tous vos besoins de déplacement et de rangement. Nous garantissons une manutention soigneuse de vos biens et un service personnalisé pour répondre à vos attentes."
       }
     }
   }
