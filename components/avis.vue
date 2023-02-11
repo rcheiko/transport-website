@@ -7,8 +7,8 @@
                 <!-- review - start -->
                 <div class="flex flex-col border rounded-lg gap-3 p-4 md:p-6">
                     <div>
-                        <span class="block text-sm md:text-base font-bold">John Kare</span>
-                        <span class="block text-sm">20 Mars, 2023</span>
+                        <span class="block text-sm md:text-base font-bold">Océane Besson</span>
+                        <span class="block text-sm">11 Février, 2023</span>
                     </div>
 
                     <!-- stars - start -->
@@ -22,9 +22,8 @@
                     <!-- stars - end -->
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem dignissimos
-                        nam, suscipit cum praesentium accusamus fugit ducimus itaque, dolore non sint maiores illum,
-                        dolor aliquam officia facere quidem. Omnis, animi.
+                        J'ai déménagé aujourd'hui, avec roro transport, je vous les recommande, très bonne organisation,
+                        ponctuelle, très efficace pour le transport et l'installation des meubles dans mon appartement.
                     </p>
                 </div>
                 <!-- review - end -->
@@ -32,7 +31,7 @@
                 <!-- review - start -->
                 <div class="flex flex-col border rounded-lg gap-3 p-4 md:p-6">
                     <div>
-                        <span class="block text-sm md:text-base font-bold">Pierre J</span>
+                        <span class="block text-sm md:text-base font-bold">Maud Legrand</span>
                         <span class="block text-sm">23 Janvier, 2023</span>
                     </div>
 
@@ -47,9 +46,8 @@
                     <!-- stars - end -->
 
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa tempora quos, animi
-                        dolorem sint soluta eum temporibus ex eaque quasi id minus, nihil minima aperiam! Libero
-                        sapiente consequuntur cupiditate praesentium quis velit temporibus nihil voluptate ?
+                        Je recommande roro transport, c'est une équipe très professionnelle et un excellent
+                        transporteur.
                     </p>
                 </div>
                 <!-- review - end -->
@@ -57,7 +55,7 @@
                 <!-- review - start -->
                 <div class="flex flex-col border rounded-lg gap-3 p-4 md:p-6">
                     <div>
-                        <span class="block text-sm md:text-base font-bold">Greg Jackson</span>
+                        <span class="block text-sm md:text-base font-bold">Greg Moulinier</span>
                         <span class="block text-sm">16 Novembre, 2022</span>
                     </div>
 
@@ -72,8 +70,8 @@
                     <!-- stars - end -->
 
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea magnam nisi odit eos sequi
-                        ex repellendus dolor omnis cum nulla !
+                        Ils ont pris grand soin de mes biens et ont assuré un transport sans accroc. Ils ont répondu
+                        rapidement à toutes mes questions et préoccupations. Je recommande vivement roro transport !
                     </p>
                 </div>
                 <!-- review - end -->
