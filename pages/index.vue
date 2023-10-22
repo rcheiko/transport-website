@@ -12,5 +12,5 @@
 definePageMeta({
     title: 'base.meta.home.title',
     description: 'base.meta.home.description'
-});
+})
 </script>
