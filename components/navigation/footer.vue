@@ -4,7 +4,7 @@
             <div class="space-x-6 flex items-center grid-flow-col">
                 <nuxt-img src="/favicon-32x32.png" alt="Logo Website un camion de déménagement" />
                 <p>
-                    2023 © Made with
+                    2024 © Made with
                     <Icon name="arcticons:hearth" size="16" />
                     by
                     <NuxtLink class="hover:text-secondary" to="https://github.com/rcheiko" target="_blank">
