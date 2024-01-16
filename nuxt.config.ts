@@ -10,7 +10,7 @@ export default defineNuxtConfig({
     // https://github.com/vueuse/vueuse
     "@vueuse/nuxt",
     // https://github.com/nuxt/image
-    "@nuxt/image-edge",
+    "@nuxt/image",
     // https://github.com/nuxt-modules/icon
     "nuxt-icon",
     // https://github.com/nuxt-modules/html-validator
